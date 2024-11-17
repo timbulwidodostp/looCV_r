@@ -1,6 +1,8 @@
 # looCV_r
 Diagnostic cross-validation tool for ordination based on fitted values Use looCV With (In) R Software
 
+https://www.youtube.com/watch?v=5mNMme5jZNU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
